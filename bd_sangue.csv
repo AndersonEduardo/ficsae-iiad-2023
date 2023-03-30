@@ -9,8 +9,8 @@ ID,CPF,NOME,Grupo Sanguíneo
 8,166.725.100-79,Marcia Pinho,O+
 9,017.476.690-40,Pedro Silva,B+
 10,546.539.240-15,Larissa Teles,O+
-11,377.717.500-52,Antônio Teles,NULL
+11,377.717.500-52,Antônio Teles,
 12,377.717.500-52,Michele Ferraz,A+
 13,236.042.700-81,Lucia Couto,O+
-14,457.370.090-09,NULL,AB-
-15,528.787.080-91,NULL,A+
+14,457.370.090-09,,AB-
+15,528.787.080-91,,A+
